@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am A Data Analyst and an aspiring Software Engineer with a passion for Machine Learning and its impact on the world economy.<br>Shoot me an Email or add me on LinkedIn 
+I am A Data Analyst, Software Engineer, Data Scientist with a passion for Machine Learning and its impact on the world economy.<br>Shoot me an Email or add me on LinkedIn 
 
 
 ## 🌐 Socials:
